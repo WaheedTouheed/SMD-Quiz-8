@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279892826146",
+    "project_id": "quiz8-ba46f",
+    "storage_bucket": "quiz8-ba46f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279892826146:android:01fe6c645c86028b3c927b",
+        "android_client_info": {
+          "package_name": "com.example.androidtopics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnZd2mo8R9vTcgvLX7Z4bDOeBsBhegzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
